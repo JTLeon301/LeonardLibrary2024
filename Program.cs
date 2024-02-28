@@ -6,7 +6,7 @@ using static System.Console;
  * NAME: Jaiden Leonard
  * CLASS: .NET Programming
  * ASSIGNMENT: Library
- * DATE: 2/20/24 (Will change with updates)
+ * DATE: 2/28/24
  * 
  * PURPOSE:
  * The purpose of this program is to manage a library system. It lets the user do various tasks like adding books
