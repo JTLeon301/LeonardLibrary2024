@@ -28,7 +28,7 @@ public class Book : Holdings
         //override ToString() method
         public override string ToString()
         {
-            return base.ToString() + $"\nAuthor: {Author}\nCopywrite Year: {CopyRightYear}";
+            return base.ToString() + $"\n{Author}\n{CopyRightYear}\n";
         }
     }
 }

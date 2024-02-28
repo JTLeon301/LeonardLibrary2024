@@ -9,10 +9,10 @@ namespace LeonardLibrary2024
   public class Periodical : Holdings
     {
         //properties
-        public DateTime Date { get; set; }
+        public string Date { get; set; }
 
         //constructor method
-        public Periodical(int id, string title, string description, DateTime date) : base(id, title, description)
+        public Periodical(int id, string title, string description, string date) : base(id, title, description)
         {
             Date = date;
         }
@@ -26,7 +26,7 @@ namespace LeonardLibrary2024
         //override ToString() method
         public override string ToString()
         {
-            return base.ToString() + $"Date: {Date.ToShortDateString()}";
+            return base.ToString() + $"\n{Date}";
         }
     }
 }

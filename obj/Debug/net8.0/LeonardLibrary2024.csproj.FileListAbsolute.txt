@@ -12,3 +12,4 @@ C:\Users\jtleo\CPSC-23000-001\LeonardLibrary2024\obj\Debug\net8.0\refint\Leonard
 C:\Users\jtleo\CPSC-23000-001\LeonardLibrary2024\obj\Debug\net8.0\LeonardLibrary2024.pdb
 C:\Users\jtleo\CPSC-23000-001\LeonardLibrary2024\obj\Debug\net8.0\LeonardLibrary2024.genruntimeconfig.cache
 C:\Users\jtleo\CPSC-23000-001\LeonardLibrary2024\obj\Debug\net8.0\ref\LeonardLibrary2024.dll
+C:\Users\jtleo\CPSC-23000-001\LeonardLibrary2024\obj\Debug\net8.0\LeonardLibrary2024.sourcelink.json

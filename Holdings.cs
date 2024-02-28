@@ -27,7 +27,7 @@ namespace LeonardLibrary2024
         public abstract string HoldingType();
 
         //check out
-        public void Checkout()
+        public void CheckOut()
         {
             IsCheckedOut = true;
         }
@@ -41,7 +41,7 @@ namespace LeonardLibrary2024
         //ToString method
         public override string ToString()
         {
-            return $"ID: {Id}\nTitle: {Title}\nDescription {Description}\nStatus: {(IsCheckedOut ? "Checked out" : "Available")}";
+            return $"{Id}\n{HoldingType()}\n{Title}\n{Description}\n{(IsCheckedOut ? "Checked out" : "Available")}";
         }
     }
 }
